@@ -1,0 +1,4 @@
+venv
+liste.pdf
+*.synctex.gz
+doc*.pdf
